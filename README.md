@@ -11,7 +11,7 @@ This solution takes in values to determine the weather at that location during t
 
 # App
 
-This application utilizes ReactJS, Axios and the National Weather Service API (https://www.weather.gov/documentation/services-web-ap) to retrieve weather forecasts and location. 
+This application utilizes ReactJS, Axios and the National Weather Service API (https://www.weather.gov/documentation/services-web-api) to retrieve weather forecasts and location. 
 
 It takes in: latitude, longitude, a date and a time period between 'day' and 'night' and outputs the city, state and the forecasted temperature and subsequent details. 
 
