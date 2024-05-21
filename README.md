@@ -22,10 +22,10 @@ It takes in: latitude, longitude, a date and a time period between 'day' and 'ni
 
 A part from the acceptance functionality, if I had more time to work on this application, I would include the following:
 - Enhanced UI - like displaying imagery concerning the forecast - eg: cloud, rain or sun images
-- Additon of specific time periods for forecasting - like utilizing the hourly forecast json to provide a specific forecast from 1 to 2 pm. 
+- Addition of specific time periods for forecasting - like utilizing the hourly forecast json to provide a specific forecast from 1 to 2 pm. 
 - Addition of City/State input - Latitude and Longitude isn't necessarily intuitive for a user but entering in a city they are traveling to or reside in is easy. 
 - Displaying Maps to visually see which areas near them have a certain type of weather, instead of manually inputting in Latitude/Longitude or even City/State. They could drag over to the area they want to see.
-- Add tests to verify error handling for all user interactions - I believe I have handled most invalid/bad inputs, but if I had more time, I would like to utilize Playwright or Selenium to test this application to be sure. 
+- Add tests to verify error handling for all user interactions - I believe I have handled most invalid/bad inputs, but if I had more time, I would like to utilize Playwright or Selenium to test this application and be sure. 
 
 # Accessibility Concerns
 
